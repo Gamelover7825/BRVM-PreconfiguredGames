@@ -4,4 +4,4 @@ This is a repository for games that are pre-configured for playing on stable rel
 
 Running the provided games on a physical PC is strictly not recommended.
 
-The recommended emulator is available here: https://github.com/Gamelover7825/BRVM
+BRVM is available here: https://github.com/Gamelover7825/BRVM
