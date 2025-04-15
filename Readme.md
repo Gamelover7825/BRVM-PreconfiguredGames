@@ -1,5 +1,5 @@
 # BriarRose VM Pre-Configured Games
 
-This is a repository for games that are pre-configured for playing on the BriarRose Virtual Machine, which is available here: https://github.com/Gamelover7825/BRVM
+This is a repository for games that are pre-configured for playing on the BriarRose Virtual Machine (BRVM), and some other Wine-based emulators for Android, such as ExaGear, Winlator, MiceWine or GameHub.
 
-Running the provided games on a physical PC is strictly not recommended.
+BRVM is available here: https://github.com/Gamelover7825/BRVM
